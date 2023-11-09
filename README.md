@@ -95,8 +95,6 @@ CANDIDATE PROFILE:
 
 ## Links
 
-HireMe Repo Link: <br>
-  https://github.com/AdamJohnson92/HireMe.git <br>
 Heroku url: <br>
   https://obscure-dusk-41418-6f9c2367f998.herokuapp.com/ 
 
